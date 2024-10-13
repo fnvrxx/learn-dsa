@@ -1,5 +1,6 @@
 Basic Topics:
-- Array
+
+- Array -> Done
 - Matrix
 - String
 - Math
@@ -12,6 +13,7 @@ Basic Topics:
 - Bit Manipulation
 
 Data Structure:
+
 - Stack (Basic Array,Linked List Array)
 - Queue
 - Linked List
