@@ -33,14 +33,14 @@ void findPair(int n, int a[], int target){
         else{
             high--;
         }
-        cout << "Pair not found";
     }
+    cout << "Pair not found";
 }
 
 
 int main(){
     int a[] = {4, 2, 6, 8, 1, 9};
-    int target = 10;
+    int target = 20;
     int result;
     int n = sizeof(a)/sizeof(a[0]);
 
