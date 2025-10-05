@@ -1,3 +1,4 @@
+
 public class search{
     //untuk string
     // static void sorting(String[] index,String key){

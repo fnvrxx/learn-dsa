@@ -1,3 +1,5 @@
+TARGET LEETCODE : 100 -> Document to gitbook
+
 Basic Topics:
 
 - Array -> Done
